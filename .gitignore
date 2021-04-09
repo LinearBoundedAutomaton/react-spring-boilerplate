@@ -1,0 +1,16 @@
+#Frontend
+/FrontendBoilerplate/node_modules
+/FrontendBoilerplate/dist
+/FrontendBoilerplate/build
+/FrontendBoilerplate/.cache
+
+#Frontend packaging pom
+/FrontendPackage/src/main/resources/*
+/FrontendPackage/target
+
+#Backend
+/SpringBoilerplate/target
+/SpringBoilerplate/nb-configuration.xml
+
+#MacOS related
+.DS_Store
