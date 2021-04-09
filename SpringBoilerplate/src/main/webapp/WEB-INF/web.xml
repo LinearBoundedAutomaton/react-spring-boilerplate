@@ -10,7 +10,7 @@
     </servlet>
     <servlet-mapping>
         <servlet-name>SpringBoilerplate</servlet-name>
-        <url-pattern>/api/</url-pattern>
+        <url-pattern>/</url-pattern>
     </servlet-mapping>
     <filter>
         <filter-name>springSecurityFilterChain</filter-name>
